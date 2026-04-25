@@ -231,11 +231,7 @@ celery -A workers.task_queue inspect active
 
 ## License
 
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
+  This project is licensed under the MIT License.
 
 ## Support
 
