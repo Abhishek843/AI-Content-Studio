@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+langchain
+langgraph
+pydantic
+moviepy
+gtts
+diffusers
+transformers
+torch
+pillow
+faiss-cpu
+psycopg2-binary
+celery
+redis
